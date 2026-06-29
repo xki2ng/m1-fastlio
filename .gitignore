@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+install/
+log/
+Log/*.png
+Log/*.txt
+Log/*.csv
+Log/*.pdf
+PCD/*.pcd
+*.o
+*.a
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.idea/
+
+# System
+.DS_Store
+*.swp
+*.swo
+
+# Hermes
+.hermes/
